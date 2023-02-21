@@ -1,10 +1,10 @@
-# readmefile generator
+# ReadmeFile Generator
 
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Description
 
-you can use it to generate readme file
+You can use the application to generate a high quality Readme file by answering a list of question in terminal
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ you can use it to generate readme file
 
 ## Installation
 
-kkk
+git clone the repository and type the code in terminal"npm i inquirer@8.2.4"
 
 ## Usage
 
-kkk
+usage information of your project
 
 ## License
 
@@ -29,11 +29,11 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 
-asd
+The project is only by myself
 
 ## Tests
 
-qdffv
+No idea
 
 ## Questions
 
