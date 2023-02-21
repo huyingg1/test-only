@@ -29,11 +29,11 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 
-The project is only by myself
+Contributing standard
 
 ## Tests
 
-No idea
+A video link will be uploaded later
 
 ## Questions
 
