@@ -21,7 +21,7 @@ git clone the repository and type the code in terminal"npm i inquirer@8.2.4"
 
 ## Usage
 
-usage information of your project
+open the Terminal and type "node index"
 
 ## License
 
